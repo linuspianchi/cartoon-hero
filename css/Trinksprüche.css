@@ -14,13 +14,13 @@ header img{
 	border: 5px solid #401905 ;
 }
 header h1{
-	color: #401905 ;
+	color: E6DF82 ;
 	font-family: 'Shadows Into Light', cursive;
  }
 main{
 	
 	max-width: 800px;
-	background-color: royalblue;
+	background-color: #F4F5D0;
 	margin: 0 auto;
 }
 
@@ -28,5 +28,13 @@ main{
 
 
 footer{
-	background-color: darkcyan;
+	padding-left: 100px;
+	background-color: #E6DF82;
+}
+a:hover{
+	color: purple;
+
+}
+a{
+	color: blue;
 }
