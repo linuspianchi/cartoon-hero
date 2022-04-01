@@ -3,7 +3,7 @@ body{
 	margin: 0;
 }
 header{
-	background-color: #F4F5D0 ;
+	background-color: #E6DF82 ;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -20,7 +20,7 @@ header h1{
 main{
 	
 	max-width: 800px;
-	background-color: #F4F5D0;
+	background-color: #E6DF82;
 	margin: 0 auto;
 }
 
@@ -29,7 +29,7 @@ main{
 
 footer{
 	padding-left: 100px;
-	background-color: #E6DF82;
+	background-color: #B67D2A;
 }
 a:hover{
 	color: purple;
